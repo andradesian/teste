@@ -1,0 +1,29 @@
+15- Certamente a segunda configuração seria a mais recomendada, visto que, a quantidade de memória ram do segundo sistema é 4 vezes maior que a do primeiro, permitndo que um número muito maior de informações sejam processadas durante um período de tempo.
+26-B
+27-B
+28-A
+29-A
+30-C
+31-D
+32-C
+33-C
+34-II,I,III
+35-V,V,V
+36-3,1,2
+37-A- 8
+B- 0 e 1
+C- 1024
+D-1048546 bytes
+E-1073741824
+38- A A A B C A C A B C A B B C
+39- Um sistema operacional, é basicamente um amontoado de aplicativos que tem como função, gerenciar os outros aplicativos da máquina e permitir seu fácil e coordenado uso.
+40-Existem vários tipos de sistemas operacionais, alguns modelados para pc`s e outros para outras máquinas, tais como os smartphones, os mais famosos são o windows e o lnux, onde o windows é conhecido por ser fácil e casual, enquanto o linux exige certo nível de conhecimento em programação.
+41-é o mecanismo programático pelo qual um programa de computador solicita um serviço do núcleo do sistema operacional sobre o qual ele está sendo executado.
+42-B
+43-3.4.1.2
+44-Linux, windowns, macOS e umbutu
+45-São sequencias de códigos predefinidos que podem ser entendidos por máquinas.
+46-JavaScript,Java,PHP,Python,C#,C++ e Visual Basic. Geralmente, a diferença entre elas são as funçoes para que elas foram feitas.
+47-As vantagens estão atreladas às suas inumeras maneiras de uso, e as desvantagens são geralmente atreladas a um ser-humano não ser capaz decifrar tamanha combinaçaõ de uns e zeros que são processadas por um computador.
+48-Compilar é reduzir o número de informações, e traduzir é dar significado coerente àquelas coisas.
+49-F V V V V F V
