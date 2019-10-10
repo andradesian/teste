@@ -1,0 +1,23 @@
+#include <stdio.h>
+#include <stdlib.h>
+
+int funcao(){
+
+ int s=0, i;
+    while(i<=200){
+        s =s + 7;
+        i++;
+        if(s>200){
+            printf("\n");
+            return 0;
+        }
+        printf("%d, ", s);   
+        }
+}
+
+int main(){
+   
+funcao();
+
+return 0;
+}
